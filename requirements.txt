@@ -13,3 +13,4 @@ pinax_teams
 djangorestframework
 django-model-utils
 django-cleanup
+gunicorn
